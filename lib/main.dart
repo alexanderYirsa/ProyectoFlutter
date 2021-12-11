@@ -611,6 +611,7 @@ class Inicio extends StatelessWidget {
                 ),
               ],
             ),
+            //Comentario1
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
